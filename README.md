@@ -1,3 +1,3 @@
-# NNAIA
+# Project aa
 
-This is a completely private neural network aimbot. If you are reading this then you are part of the private test. All the necessary files will be kept on this server
+deep learning brawlhalla and fps neural net bot. abandoned repo due to limited time/lack of interest. visit the ftp server if you want access to the source
